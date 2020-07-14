@@ -2,7 +2,6 @@ package main
 
 import (
   "database/sql"
-  "errors"
 )
 
 type product struct {
